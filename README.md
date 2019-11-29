@@ -1,2 +1,0 @@
-# Conhecimento-
-Estudo de programação 
